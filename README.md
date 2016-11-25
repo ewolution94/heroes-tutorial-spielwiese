@@ -43,6 +43,3 @@ Both the compiler and the server watch for file changes.
 Shut it down manually with `Ctrl-C`.
 
 ### YOU ARE NOW READY
-#� �h�e�r�o�e�s�-�t�u�t�o�r�i�a�l�-�s�p�i�e�l�w�i�e�s�e�
-�
-�
